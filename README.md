@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm a passionate and versatile professional with a strong 
 ### 🤝 Let’s Connect!
 
 - 📬 abijithasokan1997@gmail.com  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/abijith-asokan-784a01338/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abijith-asokan-784a01338/)
 - 🌐 [Portfolio Website](https://abijith1997.github.io) <!-- add your site if available -->
 
 ---
